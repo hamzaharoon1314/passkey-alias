@@ -10,6 +10,7 @@
 // @grant        none
 // @run-at       document-start
 // @sandbox      raw
+// @license MIT
 // ==/UserScript==
 
 (() => {
